@@ -1,5 +1,6 @@
 # World-Happiness-vs-Covid-19 Visualization
 Tableau Public link - https://public.tableau.com/app/profile/eric.yoon3643/viz/HappinessCovidProject/Dashboard1?publish=yes
+
 This Dashboard Visualizes: 
 - Covid cases per million
 - Covid deaths per million
