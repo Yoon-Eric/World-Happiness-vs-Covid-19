@@ -12,6 +12,6 @@ Data Source:
 - Our World in Data (Covid data| https://ourworldindata.org/covid-deaths) 
 
 I also uploaded .sql files to show how I queried the data using SQL.
-HappinessIndexQuery.sql - shows how I queried the Happiness index data for each years
-CovidDeathsAndVaccination.sql - Query log of exploring the Covid dataset to understand the dataset before visualizing
+- HappinessIndexQuery.sql - shows how I queried the Happiness index data for each years
+- CovidDeathsAndVaccination.sql - Query log of exploring the Covid dataset to understand the dataset before visualizing
 
